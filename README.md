@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <a href="https://github.com/fgalego/react-tailwindcss-boilerplate"><img src="https://i.imgur.com/iXwaUeI.png" alt="React" width=128"><img src="https://i.imgur.com/cnsAFU3.png" alt="Vite" width=128"><img src="https://i.imgur.com/Pww9wrr.png" alt="Typescript" width=128"><img src="https://i.imgur.com/6YZW65h.png" alt="React Bolt" width=128"></a>
+  <a href="https://github.com/fgalego/react-tailwindcss-boilerplate"><img src="https://i.imgur.com/iXwaUeI.png" alt="React" width=128"><img src="https://i.imgur.com/Pww9wrr.png" alt="Typescript" width=128"><img src="https://i.imgur.com/cnsAFU3.png" alt="Vite" width=128"><img src="https://i.imgur.com/6YZW65h.png" alt="React Bolt" width=128"></a>
 <br>
 <br>
 React w/ Typescript + Vite  + Tailwind
@@ -29,10 +29,10 @@ This boilerplate features all the latest tools and practices in the industry.
 
 - ⚛ **React** — 18.2.0
 - 🚀 **Vite** — 3.0.0
-- ⌨ **Typescript** - 4.9.3
+- ⌨ **Typescript** — 4.9.3
 - 💅 **Tailwind CSS** — 3.2.4
 - 💖 **Lint** — ESlint
-- 👌 **Prettier** - 2.8.1
+- 👌 **Prettier** — 2.8.1
 
 
 ## Getting started
